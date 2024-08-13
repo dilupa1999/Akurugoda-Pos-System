@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Akurugoda_stores">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Akurugoda_stores.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

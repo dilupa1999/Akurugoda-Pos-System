@@ -1,0 +1,12 @@
+{
+    "o_url": "srv736.hstgr.io",
+    "o_port": "3306",
+    "o_reconnect": "?autoReconnect=true",
+    "o_databaseName": "u993191433_akurugoda_de",
+    "o_username": "u993191433_akurugoda_de",
+    "o_password": "Roshantha_23",
+
+    "databaseName": "akurugoda_delivery",
+    "username": "root",
+    "password": "SEngineer,531"
+}
